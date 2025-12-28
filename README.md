@@ -1,3 +1,4 @@
+Hii there
 # 💫 About Me:
 I am a motivated computer science student actively seeking<br>opportunities to leverage my technical and communication<br>skills. I have a solid foundation in programming with proficiency in<br>Java, MySQL, and web development technologies.<br>Through my projects, I have gained practical experience in creating<br>secure applications and user interfaces, and I am<br>eager to contribute to organizational goals while furthering my skills
 
