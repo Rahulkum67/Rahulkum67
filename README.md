@@ -5,8 +5,7 @@ I am a motivated computer science student actively seeking<br>opportunities to l
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-142364277/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahulKumarar261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arahulkumar2610@gmail.com) 
-##Language
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 # 💻 Tech Stack:
